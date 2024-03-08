@@ -7,5 +7,5 @@ if (userName == "yes") {
 } else {
     alert("Go Back")
 }
-Array [""]
+Array ["userName"]
 console.log
